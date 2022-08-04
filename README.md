@@ -1,6 +1,7 @@
 
 
 ## Olá, eu sou Joao pedro de souza costa
+📚 estudando JavaScript
 <div align="center">
   <a href="https://github.com/joaobut">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaobut&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
